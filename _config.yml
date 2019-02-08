@@ -41,11 +41,11 @@ linkedin: 'nuclearkatie'
 # Navigation
 navigation:
   - text: About
-    url: /about/
+    url: /about
 #  - text: Style Guide
 #    url: /style-guide/
   - text: Contact Me
-    url: /contact/
+    url: /contact
 
 # Required Plugins
 plugins_dir:
