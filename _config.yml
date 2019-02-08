@@ -1,0 +1,70 @@
+# Site setings
+name: 'NUCLEARKATIE'
+description: 'Katie is driven by two of the largest problems facing our world today, climate change and nuclear weapons.'
+meta_description: ''
+logo: 'assets/images/bitmap.png'
+favicon: 'assets/images/favicon.ico'
+baseurl:
+production_url: https://horace.netlify.com/
+disqus: 'nuclearkatie'
+#mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
+cover_image: atomz.gif
+# Add your GA Tracking Id
+ga_analytics: UA-134095464-1
+
+
+# Author
+author:
+  name: 'Katie Mummah'
+  image: 'bowtie_close.jpg'
+  greetings: ''
+  description: "My name is Katie Mummah. I'm a nuclear engineer, graduate student, and clean energy advocate. It’s nice to meet you."
+  bio: 'Katie is a nuclear engineer, graduate student and avid tweeter. You can find her at <a href="https://twitter.com.nuclearkatie">@nuclearkatie</a>'
+
+# Contact form setings
+email: katiemummah@gmail.com
+contact_page_description: # "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
+thankyou_page_description: "Your message has been successfully sent. I'll get back to you as soon as possible!"
+
+# Social links
+twitter: 'nuclearkatie'
+# facebook: ''
+github: 'nuclearkatie'
+# codepen: ''
+# dribbble: ''
+medium: '@nuclearkatie'
+instagram: 'nuclearkatie'
+# pinterest: ''
+linkedin: 'nuclearkatie'
+# producthunt: ''
+
+# Navigation
+navigation:
+  - text: About
+    url: /about/
+#  - text: Style Guide
+#    url: /style-guide/
+  - text: Contact Me
+    url: /contact/
+
+# Required Plugins
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-tagsgenerator
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Pagination
+paginate: 5
+paginate_path: /page:num/
+
+# Permalinks
+permalink: /:title
+
+# Other
+markdown: kramdown
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
