@@ -6,11 +6,16 @@ featured_image: /assets/images/about.jpg
 
 Katie is a Nuclear Engineering graduate student at the University of Wisconsin-Madison. She works in the <a href="https://cnerg.github.io">Computational Nuclear Engineering Research Group (CNERG)</a> under Professor Paul Wilson.
 
-Katie's research interests revolve around the overlap between the nuclear fuel cycle, advanced reactors, nuclear nonproliferation, and computational science and engineering. Her goal is to ensure that the use of nuclear power remains peaceful around the world and that nuclear materials are kept safe and secure.
+All of Katie's personal and professional work is driven by two of the largest problems facing our world today, climate change and nuclear weapons. While her research is focused directly on nuclear power, Katie also writes about the broader need to decarbonize our world and the promising strategies to do so.
+
+Katie's research interests revolve around the overlap between the nuclear fuel cycle, advanced reactors, nuclear nonproliferation, and computational science and engineering. Her goal is to ensure that the use of nuclear power remains peaceful around the world and that nuclear materials are kept safe and secure. She is deeply involved in the <a href="https://ans.org">American Nuclear Society</a>, including serving as the national student director on the ANS [Board of Directors](http://www.ans.org/about/board/).
+
+You can often find her <a href="https://twitter.com/nuclearkatie">tweeting</a> about clean energy and decarbonization between classes and research. She focuses heavily on communication and eduction of nuclear science and engineering.
 
 <!--She is also interested in design and implementation of new reactors, including Small Modular Reactors. -->
 
-All of Katie's personal and professional work is driven by two of the largest problems facing our world today, climate change and nuclear weapons. In her free time, Katie <a href="https://twitter.com/nuclearkatie">tweets</a> about clean energy and decarbonization and is involved in the <a href="https://ans.org">American Nuclear Society</a>
+
+Katie grew up in the Chicago suburbs and earned her B.S. in Nuclear, Plasma, and Radiological Engineering from the University of Illinois. Besides Wisconsin and Illinois, she has briefly lived in New Jersey, Idaho, and New Mexico. She loves hiking, skiing, volunteering at dog sled races, and owns way too many items of clothing with atoms on them.
 
 >Almost every way we make electricity today, except for the emerging renewables and nuclear, puts out CO2. And so, what we're going to have to do at a global scale, is create a new system. And so, we need energy miracles. <cite>Bill Gates</cite>
 
