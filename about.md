@@ -4,7 +4,7 @@ title: About
 featured_image: /assets/images/about.jpg
 ---
 
-Katie is a Nuclear Engineering graduate student at the University of Wisconsin-Madison. She works in the <a href="https://cnerg.github.io">Computational Nuclear Engineering Research Group (CNERG)</a> under Professor Paul Wilson.
+Katie is a [Nuclear Engineering and Engineering Physics](https://www.engr.wisc.edu/department/engineering-physics/) graduate student at the [University of Wisconsin-Madison](https://www.wisc.edu). She works in the <a href="https://cnerg.github.io">Computational Nuclear Engineering Research Group (CNERG)</a> under Professor Paul Wilson.
 
 All of Katie's personal and professional work is driven by two of the largest problems facing our world today, climate change and nuclear weapons. While her research is focused directly on nuclear power, Katie also writes about the broader need to decarbonize our world and the promising strategies to do so.
 
