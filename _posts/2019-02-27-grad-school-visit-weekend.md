@@ -1,4 +1,4 @@
-if it doesn't appear that you'll findown interests and goals too; this interview works both ways---
+---
 layout: post
 title:  Going on grad school visits soon? Follow these 6 tips to get the most out of your visit
 tags: [ grad school, education ]
