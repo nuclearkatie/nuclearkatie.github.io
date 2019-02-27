@@ -10,7 +10,7 @@ Attending university visit weekends as a potential graduate student was one of t
 
 ![I graduated](../assets/images/posts/2019/i-graduated.jpeg#right)
 
-I went through the visit weekend process in 2017, when I was finishing my BS in Nuclear, Plasma, and Radiological Engineering at the University of Illinois at Urbana-Champaign (a mouthful, I know). Now in my second year of grad school at the University of Wisconsin-Madison, I can reflect back on my own experience, and give a bit more insight I've gained over the last 2 years. I'm a nuclear engineer, but my tips are aimed at the broader STEM community. I won't give tips specific to any particular field, so hopefully prospective grad students in many disciplines can gain some useful information!
+I went through the visit weekend process in 2017, when I was finishing my BS in [Nuclear, Plasma, and Radiological Engineering](https://npre.illinois.edu) at the [University of Illinois at Urbana-Champaign](https://illinois.edu) (a mouthful, I know). Now in my second year of [grad school](https://www.engr.wisc.edu/department/engineering-physics/) at the [University of Wisconsin-Madison](https://www.wisc.edu), I can reflect back on my own experience, and give a bit more insight I've gained over the last 2 years. I'm a nuclear engineer, but my tips are aimed at the broader STEM community. I won't give tips specific to any particular field, so hopefully prospective grad students in many disciplines can gain some useful information!
 
 # 1. Prioritize what matters to you before you go
 
@@ -27,7 +27,7 @@ So let's break down the priorities for prospective grad students. This isn't a h
 
 While many students believe they should prioritize the work they want to do as the most important factor in choosing a school (that's the whole point of grad school, right?), I'm going to tell you otherwise. Your research is **not** going to be the biggest factor in whether or not you have a good grad school experience.
 
-Depending on the degree and field you're pursuing, you're committing to somewhere between 2 and 7+ years towards the process of earning a graduate degree. Throughout this whole process, one person typically has overwhelming control over your work, your time, and when you get to graduate-- your advisor/PI.
+Depending on the degree and field you're pursuing, you're committing to somewhere between 2 and 7+ years towards the process of earning a graduate degree. Throughout this whole process, one person typically has overwhelming control over your work, your time, and when you get to graduate-- your [advisor/PI](http://www.inquiriesjournal.com/blog/posts/243/selecting-graduate-research-advisor/).
 
 When I talk to my friends and colleagues about their lives as graduate students, they constantly point to their advisor as the source of their emotions-- both good and bad! Your research may change, the grant you're funded on may expire, you may change your career goals, but through it all, your advisor will be there.
 
@@ -146,7 +146,7 @@ This is also a great time to ask about other non-university matters. Where do mo
 
 # 6. Interact with your fellow prospective students, and jot down their contact info!
 
-Grad school visits can feel like an all-out sprint to absorb as much information about a university, department, advisor, research group, and degree program as possible (I'm stressed just writing those all down). And in some ways it is. Choosing a graduate school is a deeply personal choice, but remember that you're not the only one going through it.
+Grad school visits can feel like an all-out sprint to absorb as much information about a university, department, advisor, research group, and degree program as possible (I'm stressed just writing those all down). In some ways, it is. Choosing a graduate school is a deeply personal choice, but remember that you're not the only one going through it.
 
 If you're on an official visit weekend sponsored by the university or department you applied to, you're likely surrounded by others going through the same process as you. In between one-on-ones with faculty and presentations by the department, take the time to get to know your fellow prospective students.
 
@@ -158,7 +158,7 @@ But even if you don't end up at the same university as your peers at visit weeke
 
 I have several good friends that I met at visit weekends and though we didn't choose the same university,  I can even boast further new friends (and a mud volleyball tournament championship!) that propagated from staying in touch with a student I met on a University of Michigan visit.
 
-I have no doubt I'd have more good friends at other schools if I had only remembered to get their contact information! In today's day and age, it's easy to reach out to someone-- if you remember their full name! In the whirlwind 48 hours I spent at each school, I often forgot to write down full names and didn't ask for emails or phone numbers (or facebook, snapchat, twitter, instagram etc etc). Don't make the mistake I did, it's always better to grab contact info even if you don't end up messaging them later.
+I have no doubt I'd have more good friends at other schools if I had only remembered to get their contact information! In today's day and age, it's easy to reach out to someone-- if you remember their full name! In the whirlwind 48 hours I spent at each school, I often forgot to write down full names and didn't ask for emails or phone numbers (or facebook, snapchat, twitter, instagram etc etc). Don't make the same mistake I did; it's always better to grab contact info even if you don't end up messaging them later.
 
 Once you've decided on a school, reach back out to the other students from that visit! If you stay in touch, you can start the next fall with a few friends already.
 
@@ -171,7 +171,9 @@ With these tips in mind, you're ready to get the best out of visit weekend! I wi
 ![Downtown Knoxville](../assets/images/posts/2019/knoxville.jpg#wide)<small>Downtown Knoxville during a visit to the University of Tennessee</small>
 
 
-Consider sending a thank you to the organizers of the visit weekend, which typically includes someone in the department administration, the department graduate coordinator, and potentially a grad student volunteer. Also sent a follow-up and thank you to each of the faculty you spoke to. If you get a funding offer from a school/advisor you don't intend to accept, make sure to graciously decline in a timely manner so they can reach out to other candidates.
+Consider sending a thank you to the organizers of the visit weekend, which typically includes someone in the department administration, the department graduate coordinator, and potentially a grad student volunteer. Also sent a follow-up and [thank you](https://www.gradschools.com/get-informed/applying-graduate-school/essay-writing/grad-school-interview-thank-you-letter) to each of the faculty you spoke to. Be courteous, but also be honest. Don't express your wholehearted desire to accept an offer if you're not yet ready to do so or you don't plan to.
+
+I recommend waiting to accept a professor's official or unofficial offer until you've completed your last visit, even if you've made your final decision. If you get a funding offer from a school/advisor you don't intend to accept, make sure to graciously decline in a timely manner so they can reach out to other candidates.
 
 Finally, have fun! Don't forget to take some pictures and make some friends! Grad school visits can be stressful, but they are also tons of fun! Relax, take a deep breath, remember to record everything, and get ready to find your future graduate school!
 
