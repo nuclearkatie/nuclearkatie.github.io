@@ -188,3 +188,9 @@ Finally, have fun! Don't forget to take some pictures and make some friends! Gra
             <small>University research reactor from lab tours </small>
         </div>
 </div>
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@nuclearkatie" />
+<meta name="twitter:title" content="Going on grad school visits soon? Follow these 6 tips to get the most out of your visit" />
+<meta name="twitter:description" content="Attending university visit weekends as a potential graduate student was one of the most eye-opening things I've ever done as a student. I learned a lot about myself, gained vital information in the search towards the best graduate experience, and made some fantastic friends along the way. Since February is wrapping up, it's about time for 2019 university visit weekends. Here are my tips for any student looking to ace their visit and find the right grad school fit for them." />
+<meta name="twitter:image" content="https://nuclearkatie.github.io/grad-school-visit-weekend" />
