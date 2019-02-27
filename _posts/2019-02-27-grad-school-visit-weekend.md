@@ -1,4 +1,4 @@
----
+if it doesn't appear that you'll findown interests and goals too; this interview works both ways---
 layout: post
 title:  Going on grad school visits soon? Follow these 6 tips to get the most out of your visit
 tags: [ grad school, education ]
@@ -10,13 +10,13 @@ Attending university visit weekends as a potential graduate student was one of t
 
 ![I graduated](../assets/images/posts/2019/i-graduated.jpeg#right)
 
-I went through the visit weekend process in 2017, when I was finishing my BS in Nuclear, Plasma, and Radiological Engineering at the University of Illinois at Urbana-Champaign (a mouthful, I know). Now in my second year of grad school at the University of Wisconsin-Madison, I can reflect back on my own experience plus give a bit more insight I've gained over the last 2 years. I'm a nuclear engineer, but my tips are aimed at the broader STEM community. I won't give tips specific to any particular field, so hopefully prospective grad students in many disciplines can gain some useful information!
+I went through the visit weekend process in 2017, when I was finishing my BS in Nuclear, Plasma, and Radiological Engineering at the University of Illinois at Urbana-Champaign (a mouthful, I know). Now in my second year of grad school at the University of Wisconsin-Madison, I can reflect back on my own experience, and give a bit more insight I've gained over the last 2 years. I'm a nuclear engineer, but my tips are aimed at the broader STEM community. I won't give tips specific to any particular field, so hopefully prospective grad students in many disciplines can gain some useful information!
 
 # 1. Prioritize what matters to you before you go
 
 Your grad school visits are going to be vastly different than any prospective undergraduate visits you participated in as a high schooler. This reflects the change in priorities between (typically) a 17- or 18-year old who might not have a major picked out versus a someone with a bachelors (or almost there!) looking to develop their research skills to earn a MS or PhD.
 
-So lets break down the priorities for prospective grad students. This isn't a hard and fast list, and your priorities might be in a different order! But here is the way I approached ranking the factors in choosing a university:
+So let's break down the priorities for prospective grad students. This isn't a hard and fast list, and your priorities might be in a different order! But here is the way I approached ranking the factors in choosing a university:
 
 1. Research advisor/PI
 2. Research group and departmental community
@@ -27,18 +27,18 @@ So lets break down the priorities for prospective grad students. This isn't a ha
 
 While many students believe they should prioritize the work they want to do as the most important factor in choosing a school (that's the whole point of grad school, right?), I'm going to tell you otherwise. Your research is **not** going to be the biggest factor in whether or not you have a good grad school experience.
 
-Depending on the degree and field you're pursuing, you're committing to somewhere between 2 and 7+ years towards the process of earning a graduate degree. And throughout this whole process, one person typically has overwhelming control over your work, your time, and when you get to graduate-- your advisor/PI.
+Depending on the degree and field you're pursuing, you're committing to somewhere between 2 and 7+ years towards the process of earning a graduate degree. Throughout this whole process, one person typically has overwhelming control over your work, your time, and when you get to graduate-- your advisor/PI.
 
-When I talk to my friends and colleagues about their lives as graduate students, they constantly point to their advisor as the source of their emotions (good and bad!) Your research may change, the grant you're funded on may expire, you may change your career goals, but through it all, your advisor will be there.
+When I talk to my friends and colleagues about their lives as graduate students, they constantly point to their advisor as the source of their emotions-- both good and bad! Your research may change, the grant you're funded on may expire, you may change your career goals, but through it all, your advisor will be there.
 
 Because of this, I argue that the professor you choose to work for is the most important aspect of choosing your grad school. In practicality, funding and personal factors (such as a spouse or a need to remain near family) may interfere with choosing the "absolute" best faculty advisor, but in general I recommend students choose a fantastic advisor even over the most interesting research project. This isn't to say that you should take a 90 degree turn on your research interests to follow an advisor, but within a general field of study (for me, it would be "the nuclear fuel cycle"), follow the advisor first.
 
 ![piggy bank](../assets/images/posts/2019/piggy-bank.jpg)
 <br><small>From the [American Economic Association](https://www.aeaweb.org/content/file?id=992)</small>
 
-Another essential factor to consider is funding associated with your potential advisor. This can be highly field-dependent, but you should seek to gain as much understanding of your potential future funding situation as possible. In STEM fields, a funding offer that covers your tuition and provides a small stipend is common, but not universal. Often this suport comes in the form of a [teaching or research assistantship](http://statistics-help-for-students.com/Teaching-Assistantship-or-Research-Assistantship.htm#.XHbh_GbMzOQ)
+Another essential factor to consider is funding associated with your potential advisor. This can be highly field-dependent, but you should seek to gain as much understanding of your potential future funding situation as possible. In STEM fields, a funding offer that covers your tuition and provides a small stipend is common, but not universal. Often this suport comes in the form of a [teaching or research assistantship](http://statistics-help-for-students.com/Teaching-Assistantship-or-Research-Assistantship.htm#.XHbh_GbMzOQ).
 
-Can your professor guarantee 5(+) years of a Research Assistantship? Will you be a Teaching Assistant, and if so, will it only be for a year or will you have to teach for several (or all) years? If you get put on a grant or fellowship that doesn't' cover the length of your program, what would happen after it expires? These questions are all directly relevant to your financial security in the next half-decade, so keep that in mind as you meet with faculty.
+Can your professor guarantee 5(+) years of a research assistantship (RA)? Will you be a teaching assistant (TA), and if so, will it only be for a year or will you have to teach for several (or all) years? If you get put on a grant or fellowship that doesn't cover the length of your program, what would happen after it expires? These questions are all directly relevant to your financial security in the next half-decade, so keep that in mind as you meet with faculty.
 
 #### Community
 
@@ -46,7 +46,7 @@ Can your professor guarantee 5(+) years of a Research Assistantship? Will you be
 
 One step removed from your faculty advisor is the research group and larger departmental community. Here's where I'm going to be brutally honest: making friends can be much harder in graduate school than undergrad. I can't speak for everyone, but many graduate students develop their closest friends from the students in their group and department.
 
-If you visit a school and notice that the current grad students don't seem friendly together, it could be a red flag. Having a supportive community around you is an extremely valuable if not necessary aspect of being a successful graduate student, and if you doesn't appear that you'll find that community at the department you're visiting, you should make a note.
+If you visit a school and notice that the current grad students don't seem friendly together, it could be a red flag. Having a supportive community around you is an extremely valuable if not necessary aspect of being a successful graduate student, and if it doesn't appear that you'll find that community at the department you're visiting, you should make a note.
 
 If you feel strongly about being involved in an organization or service group, it is worth searching if they have a chapter or similar organization nearby! This can also provide the community you'll want to build around you.
 
@@ -85,9 +85,9 @@ It seems like such a simple recommendation, but I didn't take good notes on my v
 
 # 3. Ask these questions to the faculty you meet
 
-![The questions I asked every professor on my own grad school visits in 2017](../assets/images/posts/2019/questions.jpg)<small>These are the actual notes I prepared before going on grad school visits. I asked every these questions in one way or another to every professor at every university</small>
+![The questions I asked every professor on my own grad school visits in 2017](../assets/images/posts/2019/questions.jpg)<small>These are the actual notes I prepared before going on grad school visits. I asked every one of these questions in one way or another.</small>
 
-Your schedule will likely include one-on-one meetings with several faculty you're interested in. This is your opportunity to learn more about their work and how their group operates. Be ready to talk about your own interests and goals too, this interview works both ways. You should research each faculty member you're going to meet with beforehand so you're not asking questions like "so... what does your group do?".
+Your schedule will likely include one-on-one meetings with several faculty you're interested in. This is your opportunity to learn more about their work and how their group operates. Be ready to talk about your own interests and goals too; this interview works both ways. You should research each faculty member you're going to meet with beforehand so you're not asking questions like "so... what does your group do?".
 
 You should get of a sense of how your potential future research group operates. Does the group have weekly meetings? Does the professor meet one-on-one with each student weekly, or by request? What is the average time to graduation? Is there a lot of collaboration, or are most students working independently of each other? All of these questions will help you understand the culture of the research group.
 
@@ -114,7 +114,7 @@ You're balancing professionalism with practicality on your visit, and I recommen
 
 Don't forget the basics like folder, pen, and extra paper! You'll probably be given a folder of information and maybe a drawstring back to hold it all, but prepare as if you won't.
 
-You also need to account for the fact that you may be walking between meetings with different faculty on a short timeframe. If you're going to take heels I would recommend bring flats or other comfortable shoes to switch into if you're in a pinch. Even if you're not going on a campus tour, you might have to walk outside for some amount of time so be prepared for rain/snow as well (depending on the location).
+You also need to account for the fact that you may be walking between meetings with different faculty on a short timeframe. If you're going to take heels I would recommend bringing flats or other comfortable shoes to switch into if you're in a pinch. Even if you're not going on a campus tour, you might have to walk outside for some amount of time so be prepared for rain/snow as well (depending on the location).
 
 <div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
         <div class="" style="max-width: 50%;">
@@ -140,7 +140,7 @@ Ask some of the same questions you asked the faculty: what is the work-life bala
 I recommend attending optional dinner or after-dinner events, which may be a formal part of the program or an informal opportunities set up by current grad students. A casual setting removed from campus buildings may encourage them to be more forthcoming.
 
 ![social event](../assets/images/posts/2019/fission-barcrawl.jpg)
-<br><small>This isn't from a visit weekend trip but its the same idea. This picture was taken at the same sports bar that the Engineering Physics department at UW-Madison takes prospective students to (so close enough!)</small>
+<br><small>This picture was taken at the same sports bar that the Engineering Physics department at UW-Madison takes prospective students to, although this wasn't taken during visit weekend.</small>
 
 This is also a great time to ask about other non-university matters. Where do most students live? What fun things do people do around town? Does everyone have a car or can you get around without one? Current grad students are your ticket to a deeper understanding of the city/town you're considering moving to!
 
