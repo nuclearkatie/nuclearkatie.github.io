@@ -53,7 +53,7 @@ Beyond the formal Bootcamp program, Innovators will also get to intermingle with
 
 ## 3. The other Innovators
 
-With a small group of about 25 attendees each year, you will have the opportunity to spend two weeks living, eating, and learning with fellow impassioned students and professionals. Don't overlook this opportunity as one of the essential aspects of attending Bootcamp. Your fellow innovators bring various experience and backgrounds both similar and vastly different to your own. You'll gain much more from the learning experience by interacting and collaborating with them as much as possible.
+With a small group of about 25 attendees each year, you will have the opportunity to spend two weeks living, eating, and learning with fellow impassioned students and professionals. Don't overlook this opportunity as one of the essential aspects of attending Bootcamp. Your fellow innovators bring various experiences and backgrounds both similar and vastly different to your own. You'll gain much more from the learning experience by interacting and collaborating with them as much as possible.
 
 ![2017 bootcamp attendees](assets/images/posts/2019/2017-bootcamp.jpeg)<small>My fellow 2017 innovators and the Bootcamp organizers</small>
 
@@ -66,7 +66,7 @@ In fact, several Bootcamp alumni have already founded organizations. One such In
 
 ## 4. Teambuilding
 
-One of the core components of Bootcamp is the Design Pitch Competition on the last day. Throughout the program, innovators choose their own teams and develop a 5-minute company pitches to be given to VCs. This year, the winning team will present their idea at the [Innovation4Nuclear](https://www.iync.org/i4n/) contest at the [2020 International Youth Nuclear Congress (IYNC) conference](https://iync2020.org) in Sydney, Australia.
+One of the core components of Bootcamp is the Design Pitch Competition. Throughout the program, innovators choose their own teams and develop 5-minute company pitches to be given to VCs on the last day. This year, the winning team will present their idea at the [Innovation4Nuclear](https://www.iync.org/i4n/) contest at the [2020 International Youth Nuclear Congress (IYNC) conference](https://iync2020.org) in Sydney, Australia.
 
 ![Atomic Analytics](assets/images/posts/2019/atomic-analytics.jpeg)
 <small>I present my team's pitch on the last day of Bootcamp 2017</small>
