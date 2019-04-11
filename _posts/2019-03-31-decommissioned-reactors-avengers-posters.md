@@ -6,6 +6,9 @@ featured_image_thumbnail: assets/images/posts/2019/reactors-avengers/yankee-rowe
 #featured_image: assets/images/posts/2019/reactors-avengers/yankee-rowe.jpg
 ---
 
+I recently noticed a Twitter thread by [@darth](https://twitter.com/darth/status/1110620014330023937) that placed the "Avenge The Fallen" tagline of the upcoming *Avengers: Endgame* movie on top of deceased characters. So, in the spirit of fun-yet-educational content, I created this series of images about decommissioned commercial nuclear reactors in the U.S.
+
+This post is expanded off of a [tweet thread](https://twitter.com/nuclearkatie/status/1110964781694009344) with much of the same content, but with many more broken links (oops). I'd recommend reading the content here.
 
 Some quick terminology first. This article only consists of commercial nuclear plants that have been officially designated by the [NRC](https://www.nrc.gov) as decommissioned or decommissioning. Once a reactor has been permanently shut down, it takes years or decades to fully dismantle it and return the land, and these reactors are in varying stages of the process. Some have been returned to "greenfield" status, where no buildings remain and the land has been released for unrestricted use. Others have only recently shut down and no decommissioning activities have yet taken place.
 
@@ -325,3 +328,10 @@ More reading:
 The original twitter thread is [here]().
 
 Note: the author interned at Oyster Creek Generating Station in summer 2015
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@nuclearkatie" />
+<meta name="twitter:title" content="Decommissioned nuclear reactors as Avengers Endgame posters" />
+<meta name="twitter:description" content="I recently noticed a Twitter thread by [@darth](https://twitter.com/darth/status/1110620014330023937) that placed the "Avenge The Fallen" tagline of the upcoming *Avengers: Endgame* movie on top of deceased characters. So, in the spirit of fun-yet-educational content, I created this series of images about decommissioned commercial nuclear reactors in the U.S." />
+<meta name="twitter:image" content="https://nuclearkatie.github.io/assets/images/posts/2019/reactors-avengers/yankee-rowe.jpg" />

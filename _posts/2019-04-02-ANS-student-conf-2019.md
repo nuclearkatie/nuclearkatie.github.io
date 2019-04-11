@@ -63,3 +63,10 @@ Considering graduate school? You're in luck, typically a few universities have b
 ---
 
 Best of luck to all first-time student conference attendees! Be sure to say hi if you see me in person and if you're on Twitter, follow me at [@nuclearkatie](https://twitter.com/nuclearkatie) and the conference chatter at [#ANSMeeting](https://twitter.com/search?q=%23ansmeeting&src=typd)
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@nuclearkatie" />
+<meta name="twitter:title" content="Last-minute tips for students attending the American Nuclear Society Student Conference" />
+<meta name="twitter:description" content="For many students, the [American Nuclear Society](http://www.ans.org) (ANS) [Student Conference](http://studentconf.ans.org) is their first conference. Hosted by a different student section each year, the student conference is a great opportunity for nuclear engineers and other early career professionals interested in nuclear energy to come together. Attending the student conference for the first time can also be a bit daunting. Here a few last-minute tips for attendees" />
+<meta name="twitter:image" content="https://nuclearkatie.github.io/assets/images/posts/2019/student-conf/badgers-2018.jpg" />

@@ -130,3 +130,9 @@ You can follow the people and organizations mentioned in the post:
 Katie is a 2017 Nuclear Innovation Bootcamper. Her team, Atomic Analytics, was awarded second place at the pitch competition. She is not involved in the planning or execution of the Bootcamp.
 
 ![](assets/images/posts/2019/katie-quote.png)
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@nuclearkatie" />
+<meta name="twitter:title" content="Students interested in nuclear energy should apply for the Nuclear Innovation Bootcamp" />
+<meta name="twitter:description" content="Any student or early career professional looking for a career in advanced nuclear, hoping to found their own company someday, or just looking to hone their skills as an innovator should [apply for the 2019 Nuclear Innovation Bootcamp](http://nuclearinnovationbootcamp.org/apply). Here are five reasons why." />
+<meta name="twitter:image" content="https://nuclearkatie.github.io/assets/images/posts/2019/bootcamp-cover.png" />

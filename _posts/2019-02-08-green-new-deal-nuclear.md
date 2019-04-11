@@ -35,3 +35,9 @@ Eventually Sen. Markey, coauthor of the bill, noted in a press conference that t
 At the end of the day, it appears that the Green New Deal proposal was written to be a broad, sweeping agenda that doesn't get bogged down with details such as "what qualifies as clean?". As a non-binding resolution, it makes sense that the proposal was intended to call attention to the issue at hand more than provide a perfectly polished legislative solution.
 
 This gives everyone, politicians and energy advocates included, the space to hold their own opinion while still supporting the resolution. Ocasio-Cortez can be anti-nuclear power and the pro-nuclear camp can continue to be nuclear power advocates while both supporting the lofty goals laid out in the plan. Whether or not nuclear power will be explicitly supported by future legislation is a fight for another day.
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@nuclearkatie" />
+<meta name="twitter:title" content="The official Green New Deal resolution is here. What does it say about nuclear power?" />
+<meta name="twitter:description" content="The narrative around climate change mitigation has been dominated by the "Green New Deal" proposal popularized by freshman congresswoman Alexandria Ocasio-Cortez (D-N.Y.). The final text of the resolution, introduced with Senator Ed Markey (D-Mass.), was recently released and is <a href="https://apps.npr.org/documents/document.html?id=5729033-Green-New-Deal-FINAL">available here</a>. The resolution is non-binding, however it provides a framework that will likely guide the discussion on how to tackle climate change from the national level." />
+<meta name="twitter:image" content="https://nuclearkatie.github.io/assets/images/aoc-gnd.jpg" />
