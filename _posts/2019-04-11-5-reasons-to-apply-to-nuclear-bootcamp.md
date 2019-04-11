@@ -10,11 +10,13 @@ Starting in 2016, the [Nuclear Innovation Bootcamp](http://nuclearinnovationboot
 
 Any student or early career professional looking for a career in advanced nuclear, hoping to found their own company someday, or just looking to hone their skills as an innovator should [apply for the 2019 Nuclear Innovation Bootcamp](http://nuclearinnovationbootcamp.org/apply). Here are five reasons why.
 
+
 ### Quick Background
 
 The Nuclear Innovation Bootcamp is a two-week program that brings together future and early-career professionals to learn, develop their skills, and transform their mentality about innovation in the nuclear energy industry. Participants come from a range of countries and disciplines. Many do not have a formal nuclear engineering degree.
 
 Attendees will have lodging and meals paid for by the Bootcamp for the duration of the program. This year the Bootcamp will be held in the headquarters of the [Nuclear Energy Agency]() (NEA) in Paris, France on August 19th – 30th, 2019. As of writing, the deadline to [apply](http://nuclearinnovationbootcamp.org/apply) is May 15th.
+
 
 ## 1. Content
 
@@ -45,9 +47,9 @@ While it is up to Innovators to maintain the connections they build, providing t
 
 Beyond the formal Bootcamp program, Innovators will also get to intermingle with other organizations or events. I met several wonderful friends at a mixer with the [Women in Nuclear](https://www.winus.org) national conference.
 
-
 ![Mixer with women in nuclear conference](assets/images/posts/2019/win-mixer.jpeg)
 <small>We also got to attend a mixer with the Women in Nuclear Conference being held nearby in San Francisco</small>
+
 
 ## 3. The other Innovators
 
@@ -60,8 +62,6 @@ I had the chance to develop relationships with students from universities in 11 
 Besides making valuable and (hopefully) lifelong friendships, many of your fellow attendees will ultimately work in the same industry--advanced nuclear-- that interests you. Some of them may even found startups!
 
 In fact, several Bootcamp alumni have already founded organizations. One such Innovator is 2016 bootcamp alum Ian Hamilton, who participated in [Argonne's](http://www.anl.gov) two-year [Chain Reactions Innovations](https://chainreaction.anl.gov) program to jump start companies focused on energy and science. His company, [Atlas Energy Systems](https://atlasenergysystems.org) is developing a thermionic energy convertor to recover waste heat and Ian was featured on the [Forbes 30 under 30 - Energy](https://www.forbes.com/profile/ian-hamilton/#525b7aaf7d77) list in 2018.
-
-
 
 
 ## 4. Teambuilding
@@ -78,8 +78,6 @@ Early-stage venture capital is less about technical skills than it is explaining
 Forcing (mostly) engineers to work together on a non-technical project does more than just teach students to think entrepreneurially. Teams are pushed to develop skills that are consistently listed as the most sought-after for engineering recruits -- communication, teamwork, innovation, and resilience. Regardless of future employer or job, developing these "soft skills" is a worthwhile endeavor and Bootcamp does a better job than almost any other educational endeavor I have experienced.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/tommorrowtoday?src=hash&amp;ref_src=twsrc%5Etfw">#tommorrowtoday</a> innovators think differently <a href="https://twitter.com/hashtag/nuclearinnovation?src=hash&amp;ref_src=twsrc%5Etfw">#nuclearinnovation</a> <a href="https://t.co/FqUGuy84VW">pic.twitter.com/FqUGuy84VW</a></p>&mdash; Nuclear Innovation Bootcamp (@NuclearBootcamp) <a href="https://twitter.com/NuclearBootcamp/status/888064776580063232?ref_src=twsrc%5Etfw">July 20, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
 
 
 ## 5. International experience
@@ -109,7 +107,6 @@ You can [apply for the 2019 Bootcamp online](http://nuclearinnovationbootcamp.or
 
 ---
 
-
 #### Twitter handles
 
 You can follow the people and organizations mentioned in the post:
@@ -127,7 +124,6 @@ You can follow the people and organizations mentioned in the post:
 |International Youth Nuclear Congress | [@IYNC](https://twitter.com/IYNC) |
 |French Nuclear Energy Society (SFEN) | [@SFENorg](https://twitter.com/sfenorg) |
 |Going Fission | [@FissionGoing](https://twitter.com/FissionGoing) |
-
 
 #### About the author
 
