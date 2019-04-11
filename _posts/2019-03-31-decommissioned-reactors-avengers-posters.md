@@ -333,5 +333,5 @@ Note: the author interned at Oyster Creek Generating Station in summer 2015
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@nuclearkatie" />
 <meta name="twitter:title" content="Decommissioned nuclear reactors as Avengers Endgame posters" />
-<meta name="twitter:description" content="I recently noticed a Twitter thread by [@darth](https://twitter.com/darth/status/1110620014330023937) that placed the "Avenge The Fallen" tagline of the upcoming *Avengers: Endgame* movie on top of deceased characters. So, in the spirit of fun-yet-educational content, I created this series of images about decommissioned commercial nuclear reactors in the U.S." />
+<meta name="twitter:description" content="I recently noticed a Twitter thread by [@darth](https://twitter.com/darth/status/1110620014330023937) that placed the 'Avenge The Fallen' tagline of the upcoming *Avengers: Endgame* movie on top of deceased characters. So, in the spirit of fun-yet-educational content, I created this series of images about decommissioned commercial nuclear reactors in the U.S." />
 <meta name="twitter:image" content="https://nuclearkatie.github.io/assets/images/posts/2019/reactors-avengers/yankee-rowe.jpg" />
