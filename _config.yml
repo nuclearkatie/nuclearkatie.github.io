@@ -3,9 +3,9 @@ name: 'NUCLEARKATIE'
 description: 'Katie is driven by two of the largest problems facing our world today: climate change and nuclear weapons.'
 meta_description: ''
 logo: 'assets/images/bitmap.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/atoms.ico'
 baseurl:
-production_url: https://horace.netlify.com/
+production_url: https://nuclearkatie.github.io/
 disqus: 'nuclearkatie'
 #mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 cover_image: atomz.gif
