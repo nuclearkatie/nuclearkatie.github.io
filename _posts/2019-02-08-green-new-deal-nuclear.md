@@ -38,6 +38,6 @@ This gives everyone, politicians and energy advocates included, the space to hol
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@nuclearkatie" />
-<meta name="twitter:title" content="The official Green New Deal resolution is here. What does it say about nuclear power?" />
-<meta name="twitter:description" content="The narrative around climate change mitigation has been dominated by the "Green New Deal" proposal popularized by freshman congresswoman Alexandria Ocasio-Cortez (D-N.Y.). The final text of the resolution, introduced with Senator Ed Markey (D-Mass.), was recently released and is <a href="https://apps.npr.org/documents/document.html?id=5729033-Green-New-Deal-FINAL">available here</a>. The resolution is non-binding, however it provides a framework that will likely guide the discussion on how to tackle climate change from the national level." />
+<meta name="twitter:title" content="he official Green New Deal resolution is here. What does it say about nuclear power?" />
+<meta name="twitter:description" content="The narrative around climate change mitigation has been dominated by the 'Green New Deal' proposal popularized by freshman congresswoman Alexandria Ocasio-Cortez (D-N.Y.). The final text of the resolution, introduced with Senator Ed Markey (D-Mass.), was recently released. The resolution is non-binding, however it provides a framework that will likely guide the discussion on how to tackle climate change from the national level." />
 <meta name="twitter:image" content="https://nuclearkatie.github.io/assets/images/aoc-gnd.jpg" />
