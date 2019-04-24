@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Going on grad school visits soon? Follow these 6 tips to get the most out of your visit
+title:  Going on grad school visits soon&#63; Follow these 6 tips to get the most out of your visit
 tags: [ grad school, education ]
 featured_image_thumbnail: assets/images/posts/2019/university-cover.png
 featured_image: assets/images/posts/2019/university.jpg

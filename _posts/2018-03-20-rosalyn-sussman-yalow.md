@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Dr. Rosalyn Sussman Yalow, Women's History Month
-description: Women’s History Month & Rosalyn Sussman Yalow (ANS Nuclear Cafe Post)
+title: Dr. Rosalyn Sussman Yalow, Women&#39;s History Month &#40;ANS Nuclear Cafe Post&#41;
+description: Women&#39;s History Month & Rosalyn Sussman Yalow &#40;ANS Nuclear Cafe Post&#41;
 tags: [women, nuclear, history, ANS Nuclear Cafe]
 featured_image_thumbnail: assets/images/rosalyn-sussman-yalow_crop.jpg
 ---
-
-By Katie Mummah, 03/20/2018
 
 This article originally appeared on the <a href="http://ansnuclearcafe.org/2018/03/20/womens-history-month-physicist-dr-rosalyn-sussman-yalow/#sthash.Fxz1ZbXn.dpbs">ANS Nuclear Cafe</a> to celebrate women's history month.
 

@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Dr. Katharine Way, Women's History Month
-description: Women’s History Month & Nuclear Physicist Katharine Way (ANS Nuclear Cafe Post)
+title: Dr. Katharine Way, Women&#39;s History Month &#40;ANS Nuclear Cafe Post&#41;
+description: Women&#39;s History Month &#38; Nuclear Physicist Katharine Way &#40;ANS Nuclear Cafe Post&#41;
 tags: [women, nuclear, history, ANS Nuclear Cafe]
 featured_image_thumbnail: assets/images/katharine_way_crop.png
 ---
-
-By Katie Mummah, 03/01/2018
 
 This article originally appeared on the <a href="http://ansnuclearcafe.org/2018/03/07/30594/#sthash.TVKbpr0R.dpbs">ANS Nuclear Cafe</a> to celebrate women's history month.
 

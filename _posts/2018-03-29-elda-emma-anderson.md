@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Dr. Elda Emma Anderson, Women's History Month
-description: Women’s History Month (ANS Nuclear Cafe Post)
+title: Dr. Elda Emma Anderson, Women&#39;s History Month &#40;ANS Nuclear Cafe Post&#41;
+description: Women&#39;s History Month &#40;ANS Nuclear Cafe Post&#41;
 tags: [women, nuclear, history, ANS Nuclear Cafe]
 featured_image_thumbnail: assets/images/hps_square.png
 ---
-
-By Katie Mummah
 
 This article originally appeared on the <a href="http://ansnuclearcafe.org/2018/03/29/as-womens-history-month-concludes-lets-meet-dr-elda-emma-anderson/#sthash.PWu546UD.dpbs">ANS Nuclear Cafe</a> to celebrate women's history month.
 
