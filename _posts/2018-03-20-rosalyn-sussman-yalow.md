@@ -2,7 +2,7 @@
 layout: post
 title: Dr. Rosalyn Sussman Yalow, Women&#39;s History Month &#40;ANS Nuclear Cafe Post&#41;
 description: Women&#39;s History Month & Rosalyn Sussman Yalow &#40;ANS Nuclear Cafe Post&#41;
-tags: [women, nuclear, history, ANS Nuclear Cafe]
+tags: [women, nuclear, history, ANS-Nuclear-Cafe]
 featured_image_thumbnail: assets/images/rosalyn-sussman-yalow_crop.jpg
 ---
 
