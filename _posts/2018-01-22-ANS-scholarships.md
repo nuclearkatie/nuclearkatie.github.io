@@ -2,7 +2,7 @@
 layout: post
 title: Students, Apply for ANS Scholarships&#33; &#40;ANS Nuclear Cafe Post&#41;
 description: Students Apply for ANS Scholarships&#33; &#40;ANS Nuclear Cafe Post&#41;
-tags: [ANS Nuclear Cafe]
+tags: [education, grad-school, ANS-Nuclear-Cafe]
 featured_image_thumbnail: assets/images/SCHOLARSHIPS-apply.jpg
 ---
 

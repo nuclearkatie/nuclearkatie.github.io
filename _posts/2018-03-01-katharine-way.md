@@ -2,7 +2,7 @@
 layout: post
 title: Dr. Katharine Way, Women&#39;s History Month &#40;ANS Nuclear Cafe Post&#41;
 description: Women&#39;s History Month &#38; Nuclear Physicist Katharine Way &#40;ANS Nuclear Cafe Post&#41;
-tags: [women, nuclear, history, ANS Nuclear Cafe]
+tags: [women, nuclear, history, ANS-Nuclear-Cafe]
 featured_image_thumbnail: assets/images/katharine_way_crop.png
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Dr. Elda Emma Anderson, Women&#39;s History Month &#40;ANS Nuclear Cafe Post&#41;
 description: Women&#39;s History Month &#40;ANS Nuclear Cafe Post&#41;
-tags: [women, nuclear, history, ANS Nuclear Cafe]
+tags: [women, nuclear, history, ANS-Nuclear-Cafe]
 featured_image_thumbnail: assets/images/hps_square.png
 ---
 

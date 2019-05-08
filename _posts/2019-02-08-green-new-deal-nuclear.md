@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The official Green New Deal resolution is here. What does it say about nuclear power&#63;
-tags: [ nuclear, energy, Green New Deal, politics, uwLSC432]
+tags: [ nuclear, energy, Green-New-Deal, politics, uwLSC432]
 featured_image_thumbnail: assets/images/aoc-gnd.jpg
 featured_image: assets/images/aoc-gnd.jpg
 ---

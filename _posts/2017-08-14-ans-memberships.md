@@ -2,7 +2,7 @@
 layout: post
 title: ANS Student Director Says National & Student Section Memberships are both a Must &#40;ANS Nuclear Cafe Post&#41;
 description: ANS Student Director Says National &#38; Student Section Memberships are both a Must &#40;ANS Nuclear Cafe Post&#41;
-tags: [ANS Nuclear Cafe, education]
+tags: [ANS-Nuclear-Cafe, education]
 featured_image_thumbnail: assets/images/ANS_logo.jpg
 ---
 
