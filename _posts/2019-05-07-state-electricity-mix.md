@@ -106,3 +106,9 @@ As coal plants retire, they are typically replaced with a mix of generating capa
 <br><small>Data and image from the <a href="https://www.eia.gov/todayinenergy/detail.php?id=38632">EIA</a></small>
 
 Despite massive drops in the cost of building new renewable capacity, the EIA forecasts no major capacity of wind after 2022. Natural gas additions are also forecasted to match or exceed solar PV all the way through 2050. While coal’s days are numbered, it appears that fossil fuels are still set to play a dominant role in our energy economy for decades to come. If we want to change that, we’ll have to start by recognizing where we are today.
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@nuclearkatie" />
+<meta name="twitter:title" content="Do you know how your state generates electricity?" />
+<meta name="twitter:description" content="When I press “brew” on my coffeemaker first thing in the morning, I never stop to wonder whether the coffeemaker is on and ready to pour into my mug. For many of us, electricity is just a fact of life. Which energy source created the electrons that power our appliances has little effect on our day-to-day lives, because electrons from coal are the same as electrons from solar. But this blissful ignorance is evolving as climate change seeps further into the national consciousness." />
+<meta name="twitter:image" content="https://nuclearkatie.github.io/assets/images/posts/2019/state-electricity/all_states_hex.png" />

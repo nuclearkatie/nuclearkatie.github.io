@@ -235,3 +235,9 @@ I picked up The Atomic Scientists at a secondhand bookstore in Madison with seve
 ---
 
 Have you read any of these books before or have recommendations for new books for me? Let me know in the comments! I probably won't add any more to this summer reading list, but I'm always on the lookout for new books to read in the future.
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@nuclearkatie" />
+<meta name="twitter:title" content="The 11 books on my summer nuclear reading list" />
+<meta name="twitter:description" content="It's almost summer, by university standards at least, and for me summer means reading. I've been collecting radiation and nuclear-themed books for a few years, but I've read almost none of them during my busy semesters and internships. This summer, I'm making a reading list of all these collected books, a nuclear reading list. These books range from ones where I know the author and have a good idea of the content to books that I randomly picked up at a secondhand bookstore." />
+<meta name="twitter:image" content="https://nuclearkatie.github.io/assets/images/posts/2019/books/nuclear-books.jpg" />
