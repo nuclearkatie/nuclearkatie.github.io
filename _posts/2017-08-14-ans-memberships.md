@@ -20,7 +20,7 @@ Does your student section lack resources? Are you unsure how to get involved wit
 
 I have created a simple anonymous form to <a href="https://docs.google.com/forms/d/e/1FAIpQLSelhZ6PtzKWosygrGGPD4mqIZWuow0fXREJyoL1OkoyXzo_nw/viewform">leave me comments, feedback, questions</a>. You do NOT have to be a student to send me feedback, and you are welcome to leave your contact information for me to follow up if you wish.
 
-Prefer to email me directly? I can be contacted at <a href="mailto:radioactivekate@gmail.com">radioactivekate@gmail.com</a> or through ANS collaborate.
+Prefer to email me directly? I can be contacted through ANS collaborate.
 
 Finally, I want to encourage all students to <a href="http://www.ans.org/join/">become ANS national members</a> (and remember to renew your membership too) in conjunction with becoming a members of your school’s student section. Joining your student section is not the same as joining ANS national, so I encourage you all to become a national member of the Society, now!  And keep in mind that you must be a part of the national Society to take advantage of the benefits offered.
 
