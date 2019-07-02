@@ -46,6 +46,8 @@ navigation:
 #    url: /style-guide/
   - text: Contact Me
     url: /contact
+  - text: Etsy store
+    url: http://etsy.com/shop/NuclearKatie
 
 # Required Plugins
 plugins_dir:
