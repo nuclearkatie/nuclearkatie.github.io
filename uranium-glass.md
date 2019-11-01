@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Uranium glass
-featured_image: /assets/images/u_glass.jpg
+featured_image: /assets/images/pages/u-glass/u_glass.jpg
 ---
 
 Check out my uranium glass
