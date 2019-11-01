@@ -13,7 +13,8 @@ time! I do other stuff too! Here are some of the ways I spend my free time...
 ## Fetch
 
 I foster and dog-sit rescue dogs with
-[Fetch Wisconsin Rescue](http://fetchwi.org).
+[Fetch Wisconsin Rescue](http://fetchwi.org). If you're interested, you can
+support Fetch's mission by [donating here](https://www.fetchwi.org/donate).
 
 #### Jolene (Oct 2019)
 
