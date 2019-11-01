@@ -42,12 +42,16 @@ linkedin: 'nuclearkatie'
 navigation:
   - text: About
     url: /about
+#  - text: Nuclear stuff
+#    url: /nuclear-stuff
+  - text: Non-nuclear stuff
+    url: /non-nuclear-stuff
 #  - text: Style Guide
 #    url: /style-guide/
   - text: Contact Me
     url: /contact
-  - text: Etsy store
-    url: http://etsy.com/shop/NuclearKatie
+  - text: Uranium glass
+    url: uranium-glass
 
 # Required Plugins
 plugins_dir:
