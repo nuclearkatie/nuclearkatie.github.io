@@ -34,7 +34,7 @@ Yes, although the term Vaseline is sometimes used to referred to glass with a si
 
 Each piece must be tested by checking the UV fluorescence or using a radiation detector such as a Geiger counter to confirm that it contains Uranium.
 
-How radioactive are these pieces? What is the count rate coming off of them?
+#### How radioactive are these pieces? What is the count rate coming off of them?
 These pieces are not very radioactive. Uranium is not very radioactive due to its long half life, and these pieces contain relatively small amounts of uranium.
 
 I do not make official count measurements on any of my glass pieces. If you are really serious about finding this information out, let me know and I can potentially connect you with people who could help you obtain this information
