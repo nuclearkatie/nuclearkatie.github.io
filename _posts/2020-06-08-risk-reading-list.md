@@ -22,6 +22,10 @@ Slovic, P. (1987). Perception of Risk. *Science*, *236*(4799), 280–285. [https
 #### The Future of Nuclear Power: Value Orientations and Risk Perception
 Whitfield, S. C., Rosa, E. A., Dan, A., & Dietz, T. (2009). The Future of Nuclear Power: Value Orientations and Risk Perception. *Risk Analysis*, *29*(3), 425–437. [https://doi.org/10.1111/j.1539-6924.2008.01155.x](https://doi.org/10.1111/j.1539-6924.2008.01155.x)
 
+#### How Safe is Safe Enough? A Psychometric Study of Attitudes Towards Technological Risks and Benefits
+Fischhoff, B., Slovic, P., Lichtenstein, S., Read, S., & Combs, B. (1978). How Safe is Safe Enough? A Psychometric Study of Attitudes Towards Technological Risks and Benefits. *Policy Sciences*, *9*, 127–152. [Available here](https://www.cmu.edu/epp/people/faculty/research/PS%20FSLRC%20HowSafe.pdf)
+
+
 #### Seven Cardinal Rules of Risk Communication
 Covello, V., & Allen, F. (1998). *Seven Cardinal Rules of Risk Communication*. US Environmental Protection Agency, Office of Policy Analysis. [Available from the EPA](https://www.orau.gov/cdcynergy/erc/Content/activeinformation/resources/EPA_Seven_Cardinal_Rules.pdf)
 
