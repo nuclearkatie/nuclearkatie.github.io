@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Reading list on risk communication
-tags: [ nuclear ]
+tags: [ nuclear, advocacy, education, history ]
 featured_image_thumbnail: assets/images/posts/2020/reading-list/start-here.png
 featured_image: assets/images/posts/2020/reading-list/start-here.png
 ---
