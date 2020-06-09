@@ -47,6 +47,8 @@ Two chapters of particular interest are by Rayner, Cultural Theory and Risk Anal
 
 ![](assets/images/posts/2020/reading-list/future_of_nuclear.png#wide)
 
+I want to specifically thank Professor [Dominique Brossard](https://lsc.wisc.edu/facstaff/brossard-dominique/) in the department of Life Sciences Communication and Professor [Vicki Bier](https://directory.engr.wisc.edu/ie/faculty/bier_vicki) in Industrial & Systems Engineering for being the ones to assign most of (potentially all?) of these readings to me and for teaching me so much.
+
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@nuclearkatie" />
 <meta name="twitter:title" content="Reading list on risk communication" />
