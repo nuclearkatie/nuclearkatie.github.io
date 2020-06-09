@@ -14,6 +14,8 @@ Disclaimer, I'm not an expert in science communication, I haven't gotten to cond
 
 This is a living list. Last updated: June 8, 2020
 
+If you're looking for my slides from the 2020 ANS Annual Meeting presentation, you can find them [HERE](https://nuclearkatie.com/mummah_risk_society.pdf)
+
 ## Publicly available articles
 
 #### Perception of Risk
