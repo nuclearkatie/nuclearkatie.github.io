@@ -13,18 +13,16 @@ Check out my uranium glass
 All you need is a blacklight. If you're not setting up a prominent display for it, and you only want to show off the glow sometimes, I recommend buying this cheap flashlight from Amazon. It's what I carry around when I go antiquing ([link](https://smile.amazon.com/gp/product/B06XF3V8DH/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1))
 
 #### Is this safe to use?
-Yes. Treat it as you would any other leaded glass, in that it's safe for occasional use, but I wouldn't permanently store food in there if it's acidic.
+*Generally* yes. Treat it as you would any other leaded glass, in that it can be considered relatively safe for occasional use, with the exception of acids. Acidic foods like citrus tend to leach out the uranium (as well as lead, which some of these pieces probably contain as well), so using U glass with lemons, limes, oranges, or similar is never recommended.
 
-Acidic foods tend to leach out the uranium (as well as lead, which some of these pieces probably contain as well), which would be the only way that uranium would get into your food.
-
-If you want to permanently store food in there, consider using a doily
+If you want to store solid food in U glass for the medium-to-long term, consider using a doily.
 
 #### Will the uranium make my food radioactive?
 No. The radiation given off from the uranium will not make your food radioactive.
 
 In fact, the only way to make something radioactive is by hitting it with neutrons. Neutrons do not come off of uranium.
 
-The only thing uranium will do is kill off some bacteria, similar to how food irradiation kills off bacteria on things like strawberries
+The only thing uranium could do is kill off a very small amount of bacteria, similar to how food irradiation kills off bacteria on things like strawberries
 
 #### Why does uranium glass glow?
 A common misconception is that the UV fluorescence of uranium glass is caused by the radioactive properties of uranium. In fact, it is simply a chemical property of the uranium that causes this feature
@@ -40,7 +38,7 @@ These pieces are not very radioactive. Uranium is not very radioactive due to it
 I do not make official count measurements on any of my glass pieces. If you are really serious about finding this information out, let me know and I can potentially connect you with people who could help you obtain this information
 
 #### Where do you buy these pieces?
-I go antiquing at dozens of stores in many different states. Some of the states I have pieces from include Colorado, Utah, Idaho, Wyoming, South Dakota, Minnesota, and Wisconsin
+I go antiquing at dozens of stores in many different states. Some of the states I have pieces from include Colorado, Utah, Idaho, Wyoming, South Dakota, Minnesota, and Wisconsin. There are many common pieces that you can find at at almost every antique shop, like sherbet glasses.
 
-#### How do you set your prices?
+#### How do you set your Etsy prices?
 I buy all of these pieces from antique shops around the US, so I start with the price that I paid at the store. Then I add a small percentage to cover the cost of the shipping material and my time.
