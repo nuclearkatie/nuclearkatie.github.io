@@ -26,11 +26,17 @@
   event: 2018 NNSA University Program Review
   month: June
   year: 2018
+  author: <b>K. Mummah</b>, Baptiste Mouginot, Paul P.H. Wilson
   place: Raleigh, NC
   pic: /assets/images/pages/research/2018-06-upr.jpeg
 
 - title: Modeling Post-JCPOA Cascade Performance with Cyclus
+  event: Consortium for Verification Technology (CVT) Workshop
   pic: /assets/images/pages/research/2017-11-mtv.jpeg
+  author: <b>K. Mummah</b>, Meghan McGarry, Baptiste Mouginot, Paul P.H. Wilson
+  month: November
+  year: 2017
+  place: Ann Arbor, MI
 
 - title: Investigating the Effects of Fuel Pellet Geometry on Pellet Cladding Mechanical Interaction (PCMI) using BISON
   event: American Nuclear Society Winter Meeting
@@ -39,7 +45,6 @@
   author: <b>K. Mummah</b>, Richard Williamson
   pic: /assets/images/pages/research/2016-11-bison-poster.jpg
   place: Las Vegas, NV
-
 
 - title: "Reactivity Management: More Than Just Reactor Engineers"
   event: American Nuclear Society Winter Meeting
