@@ -1,0 +1,4 @@
+---
+layout: poster
+title: Posters
+---

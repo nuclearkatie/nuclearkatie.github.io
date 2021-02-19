@@ -4,7 +4,7 @@ title: Uranium glass
 featured_image: /assets/images/pages/u-glass/u_glass.jpg
 ---
 
-Check out my uranium glass
+Sometimes I sell uranium glass. Check out my uranium glass
 [Etsy store!](https://www.etsy.com/shop/NuclearKatie?ref=seller-platform-mcnav)
 
 ## FAQ
@@ -38,7 +38,6 @@ These pieces are not very radioactive. Uranium is not very radioactive due to it
 I do not make official count measurements on any of my glass pieces. If you are really serious about finding this information out, let me know and I can potentially connect you with people who could help you obtain this information
 
 #### Where do you buy these pieces?
-I go antiquing at dozens of stores in many different states. Some of the states I have pieces from include Colorado, Utah, Idaho, Wyoming, South Dakota, Minnesota, and Wisconsin. There are many common pieces that you can find at at almost every antique shop, like sherbet glasses.
+I go antiquing at dozens of stores in many different states. Some of the states I have pieces from include Colorado, Utah, Idaho, Wyoming, South Dakota, Minnesota, and Wisconsin. 
 
-#### How do you set your Etsy prices?
-I buy all of these pieces from antique shops around the US, so I start with the price that I paid at the store. Then I add a small percentage to cover the cost of the shipping material and my time.
+There are many common pieces that you can find at at almost every antique shop, like sherbet glasses and tea cups. If you're interested in locating unique or rare pieces yourself, I recommend visiting a handful of antique stores to get a sense of typical price and availability, or buying online. Websites like Etsy and Ebay have a wider selection and often better prices.

@@ -42,8 +42,8 @@ linkedin: 'nuclearkatie'
 navigation:
   - text: About
     url: /about
-#  - text: Nuclear stuff
-#    url: /nuclear-stuff
+  - text: Research
+    url: /research
   - text: Non-nuclear stuff
     url: /non-nuclear-stuff
 #  - text: Style Guide
@@ -52,6 +52,7 @@ navigation:
     url: /contact
   - text: Uranium glass
     url: uranium-glass
+    
 
 # Required Plugins
 plugins_dir:
