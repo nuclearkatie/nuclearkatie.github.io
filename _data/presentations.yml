@@ -20,6 +20,7 @@
   month: October
   year: 2020
   pic: /assets/images/pages/research/2020-10-13-naygn-scicomm.png
+  link: https://naygn.webex.com/recordingservice/sites/naygn/recording/af59c60240f34b0899f401884269238c/playback
 
 - title: Overview of Nuclear Nonproliferation
   type: Invited Speaker
@@ -27,6 +28,7 @@
   month: October
   year: 2020
   pic: /assets/images/pages/research/2020-10-08-atomic-badger-nonpro.png
+  link: /research-stuff/2020-10-08-atomic-badgers-nuclear-nonpro.pdf
 
 - title: Commencement Address to Nuclear Scientists and Engineers
   type: Invited Speaker
@@ -44,9 +46,10 @@
   author: <b>K. Mummah</b>, Paul P.H. Wilson
   pic: /assets/images/pages/research/2020-07-13-inmm-annual.png
   place: Virtual
+  link: /research-stuff/2020-07-13-inmm-annual.pdf
 
 - title: "Communicating Risk: the science of science communication"
-  link: /Mummah_Risk_Society.pdf
+  link: /research-stuff/2020-06-ans-annual-risk-society.pdf
   pic: /assets/images/pages/research/2020-06-ans-risk-comm.png
   event: American Nuclear Society Annual Meeting
   session: Communicating Safety & Risk to the Public
@@ -85,6 +88,7 @@
   pic: /assets/images/pages/research/2019-07-17-INMM-APA.png
   author: <b>K. Mummah<b>, R. Bahran, K. Miller, P. P.H. Wilson
   place: Palm Desert, CA
+  link: /research-stuff/2019-07-17-INMM-APA.pdf
 
 - title: Material diversion analysis within a fuel cycle simulator
   type: Research Presentation
@@ -94,6 +98,7 @@
   author: <b>K. Mummah</b>, Paul P.H. Wilson
   pic: /assets/images/pages/research/2019-06-28-twofcs.png
   place: Champaign, IL
+  link: /research-stuff/2019-06-28-twofcs.pdf
 
 - title: Assessing Material Inventory Uncertainties in Integrated Fuel Cycle Simulations
   type: Research Presentation (non-first-author/non-presenter)
