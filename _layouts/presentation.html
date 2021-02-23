@@ -21,7 +21,8 @@ layout: default
                     <div class="page-description">{{ topic.event }}{% if topic.session %}, {{topic.session}}{% endif %}{% if topic.place %}, {{ topic.place }}{% endif %}</div>
                     <h5>{{ topic.month }}{% if topic.day %} {{ topic.day }},{% endif %} {{ topic.year }}{% if topic.time %} at {{ topic.time }}{% endif %}</h5>
                     <div class="post-content">{% if topic.type %}Type: {{ topic.type }}{% endif %} <br>
-                    {% if topic.author %}{{ topic.author }}{% endif %}</div>
+                    {% if topic.author %}{{ topic.author }}{% endif %} <br>
+                    {% if topic.more %}<a href="{{ topic.morelink }}">{{ topic.more }}{% endif %}</a>{% if topic.moremore %}<a href="{{ topic.moremorelink }}">, {{ topic.moremore }}{% endif %}</a></div>
                 <br> <br>
                 {% endfor %}
 

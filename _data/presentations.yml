@@ -49,6 +49,7 @@
   link: /research-stuff/2020-07-13-inmm-annual.pdf
 
 - title: "Communicating Risk: the science of science communication"
+  type: Panel
   link: /research-stuff/2020-06-ans-annual-risk-society.pdf
   pic: /assets/images/pages/research/2020-06-ans-risk-comm.png
   event: American Nuclear Society Annual Meeting
@@ -56,6 +57,11 @@
   month: June
   year: 2020
   place: Virtual
+  more: Nuclear News article
+  author: "Panelists: <b>Katie Mummah</b>, Monica Trauzzi, Nick Touran, Matt Bucknor, and Heather Hoff"
+  morelink: https://www.ans.org/news/article-251/ans-annual-meeting-wednesday-recap/
+  moremore: Video link
+  moremorelink: https://www.ans.org/meetings/am2020/session/view-86/
 
 - title: "Advocating to Policymakers: Delivering Your Message Credibly"
   type: Panel
@@ -77,6 +83,7 @@
   event: Ecomodernism 2019
   month: September
   year: 2019
+  author: "Panelists: <b>K. Mummah</b>, Jessica Lovering, Alan Ahn"
   pic: /assets/images/pages/research/2019-09-ecomodernism.png
   link: https://thebreakthrough.org/events/ecomodernism-2019-environmental-policy-after-neoliberalism
 
@@ -86,7 +93,7 @@
   month: July
   year: 2019
   pic: /assets/images/pages/research/2019-07-17-INMM-APA.png
-  author: <b>K. Mummah<b>, R. Bahran, K. Miller, P. P.H. Wilson
+  author: <b>K. Mummah</b>, R. Bahran, K. Miller, P. P.H. Wilson
   place: Palm Desert, CA
   link: /research-stuff/2019-07-17-INMM-APA.pdf
 
