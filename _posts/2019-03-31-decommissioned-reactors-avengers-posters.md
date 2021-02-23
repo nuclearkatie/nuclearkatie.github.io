@@ -212,7 +212,7 @@ More reading:
 
 ![](assets/images/posts/2019/reactors-avengers/tmi-2.jpg)
 
-Three Mile Island Unit 2 suffered a partial core meltdown only months after it began commercial operation. It is the worst nuclear accident in the US despite releasing only a tiny amount of radiation to the environment. The plant is in SAFSTOR. Unit 1 continued to operate for 40 years, finally shutting down in September 2019.
+Three Mile Island Unit 2 suffered a partial core meltdown only months after it began commercial operation. It is the worst nuclear accident in the US despite releasing only a tiny amount of radiation to the environment. The plant is in SAFSTOR. Unit 1 continued to operate for 40 years after the TMI-2 accident, finally shutting down in September 2019 due to economic factors.
 
 More reading:
 * [Backgrounder on the Three Mile Island Accident &#124; U.S. Nuclear Regulatory Commission](https://nuclearstreet.com/nuclear_power_industry_news/b/nuclear_power_news/archive/2010/09/23/exelon-nuclear-marks-50-years-of-nuclear-power-during-dresden-unit-1-celebration-092305#.XKK5LmaZN0s)
