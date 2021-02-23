@@ -208,17 +208,18 @@ More reading:
 * [Pioneer Nuclear Plant Closing &#124; The New York Times (1984)](https://www.nytimes.com/1984/09/04/us/pioneer-nuclear-plant-closing.html)
 * [Exelon Nuclear Marks 50 Years of Nuclear Power during Dresden Unit 1 Celebration &#124; Nuclear Street](https://nuclearstreet.com/nuclear_power_industry_news/b/nuclear_power_news/archive/2010/09/23/exelon-nuclear-marks-50-years-of-nuclear-power-during-dresden-unit-1-celebration-092305#.XKK5LmaZN0s)
 
-### Three Mile Island 2
+### Three Mile Island 1 and 2
 
 ![](assets/images/posts/2019/reactors-avengers/tmi-2.jpg)
 
-Three Mile Island Unit 2 suffered a partial core meltdown only months after it began commercial operation. It is the worst nuclear accident in the US despite releasing only a tiny amount of radiation to the environment. The plant is in SAFSTOR while unit 1 still operates
+Three Mile Island Unit 2 suffered a partial core meltdown only months after it began commercial operation. It is the worst nuclear accident in the US despite releasing only a tiny amount of radiation to the environment. The plant is in SAFSTOR. Unit 1 continued to operate for 40 years, finally shutting down in September 2019.
 
 More reading:
 * [Backgrounder on the Three Mile Island Accident &#124; U.S. Nuclear Regulatory Commission](https://nuclearstreet.com/nuclear_power_industry_news/b/nuclear_power_news/archive/2010/09/23/exelon-nuclear-marks-50-years-of-nuclear-power-during-dresden-unit-1-celebration-092305#.XKK5LmaZN0s)
 * [Three Mile Island Accident &#124; World Nuclear Association](http://www.world-nuclear.org/information-library/safety-and-security/safety-of-plants/three-mile-island-accident.aspx)
 * [The Three Mile Island 2 (TMI-2) Reactor Accident &#124; Penn State University Libraries](https://libraries.psu.edu/about/collections/three-mile-island-2-recovery-and-decontamination/three-mile-island-2-tmi-2-reactor)
 * [Three Mile Island 2 Recovery and Decontamination &#124; Penn State University Libraries](https://libraries.psu.edu/about/collections/three-mile-island-2-recovery-and-decontamination)
+* [Three Mile Island Unit 1 closes for good, unable to run profitably &#124; CBS News](https://www.cbsnews.com/news/three-mile-island-unit-1-closes-for-good/)
 
 ### La Crosse
 
