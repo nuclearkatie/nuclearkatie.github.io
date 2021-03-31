@@ -39,7 +39,7 @@ GEM
     jekyll-tagsgenerator (0.0.2)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    kramdown (2.3.0)
+    kramdown (2.3.1)
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
@@ -77,7 +77,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-tagsgenerator
-  kramdown (>= 2.3.0)
+  kramdown (>= 2.3.1)
   listen
   sass
   tzinfo-data
