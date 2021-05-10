@@ -14,7 +14,7 @@ Disclaimer, I'm not an expert in science communication, I haven't gotten to cond
 
 This is a living list. Last updated: June 8, 2020
 
-If you're looking for my slides from the 2020 ANS Annual Meeting presentation, you can find them <a href="/Mummah_Risk_Society.pdf" class="button">          HERE          </a>
+If you're looking for my slides from the 2020 ANS Annual Meeting presentation, you can find them <a href="/research-stuff/2020-06-ans-annual-risk-society.pdf" class="button">          HERE          </a>
 
 ## Publicly available articles
 
