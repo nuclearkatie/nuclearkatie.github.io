@@ -3,3 +3,5 @@ _site
 *.swp
 .sass-cache
 .*
+research-stuff/needs-converting/*
+research-stuff/one-pagers/*
