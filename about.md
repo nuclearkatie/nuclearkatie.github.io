@@ -19,7 +19,7 @@ You can often find her <a href="https://twitter.com/nuclearkatie">tweeting</a> a
 
 Katie grew up in the Chicago suburbs and earned her B.S. in Nuclear, Plasma, and Radiological Engineering from the University of Illinois. Besides Wisconsin and Illinois, she has briefly lived in New Jersey, Idaho, and New Mexico. She loves hiking, skiing, volunteering at dog sled races, and owns way too many items of clothing with atoms on them.
 
->Almost every way we make electricity today, except for the emerging renewables and nuclear, puts out CO2. And so, what we're going to have to do at a global scale, is create a new system. And so, we need energy miracles. <cite>Bill Gates</cite>
+>Sadly, it's much easier to create a desert than a forest. <cite>James Lovelock</cite>
 
 
 <!--- Daniel Bennett is a senior developer from Vilnius, Lithuania. After graduating from The College with a degree in **Computer Science**, he worked for three small web shops where he honed his development skills and love for JavaScript.
