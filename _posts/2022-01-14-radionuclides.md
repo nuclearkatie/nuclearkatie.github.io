@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Isotope or Nuclide? A short guide
-tags: [nuclear, politics, Green-New-Deal]
+tags: [nuclear, education]
 featured_image_thumbnail: assets/images/posts/2022/nuclides/isotope_vs_nuclide.png
 featured_image: assets/images/posts/2022/nuclides/isotope_vs_nuclide.png
 ---
@@ -36,7 +36,13 @@ Isotope is used to specify a _nuclide_ (using the new vocab word right away!) of
 
 U-235 and U-238 are isotopes of uranium, but they're not the only isotopes. Not even the only naturally-occuring isotopes of uranium in greater than trace quantities, we are reminded by uranium-234 if it was anthropomorphized. They're also nuclides, but calling them isotopes reminds us they are the same element and have the same number of protons.
 
-Conversely, uranium-235 and plutonium-239 are not isotopes. They are different elements, with uranium always having 92 protons and plutonium always having 94.
+Conversely, uranium-235 and plutonium-239 are not isotopes. They are different elements, with uranium always having 92 protons and plutonium always having 94.<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@nuclearkatie" />
+<meta name="twitter:title" content="Isotope or Nuclide? A short guide" />
+<meta name="twitter:description" content="
+Happy friday night, let's be pedantic about nuclear terminology (for fun?)" />
+<meta name="twitter:image" content="https://nuclearkatie.github.io/assets/images/posts/2021/earth-day/ice-lake.jpg" />
+
 
 Self-check: Are all isotopes nuclides? Are all nuclides isotopes? Think about it, and see the answer at the bottom of the page
 
@@ -75,4 +81,4 @@ Self-check answer: This is like squares and rectangles. Isotopes are to squares 
 <meta name="twitter:title" content="Isotope or Nuclide? A short guide" />
 <meta name="twitter:description" content="
 Happy friday night, let's be pedantic about nuclear terminology (for fun?)" />
-<meta name="twitter:image" content="https://nuclearkatie.github.io/assets/images/posts/2022/nuclides/isotope_vs_nuclide.png />
+<meta name="twitter:image" content="https://nuclearkatie.github.io/assets/images/posts/2022/nuclides/isotope_vs_nuclide.png"/>
