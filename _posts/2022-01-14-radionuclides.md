@@ -48,10 +48,7 @@ Also, there are other terms relating multiple nuclides to each other based on nu
 
 ### Thanks for this, but why?
 
-It's a _rare_ day when I actually get to be pendantic about an xkcd comic. Randall Munroe usually does a fantastic job when weaving nuclear science into comics, but in this case he just happened to stumble into the trap of an extremely common mistake. Comic [2568](https://xkcd.com/2568/) uses isotope when the element is not specified or fixed, and should instead be nuclide.
-
-<center><img src="https://imgs.xkcd.com/comics/spinthariscope.png" alt="xkcd comic 2568, Spinthariscope"></center>
-
+It's a _rare_ day when I actually get to be pendantic about an xkcd comic. Randall Munroe usually does a fantastic job when weWhen should you use radionuclide vs isotope vs radioactive isotope vs...?
 
 Spinthariscopes, a neat tool to visualize radiation that are almost as old as our knowledge of radioativity itself, were historically made using radium as the _radionuclide_, but modern versions generally use americium-241 or thorium, such as the one avaiable for purchase at [United Nuclear](https://unitednuclear.com/index.php?main_page=index&cPath=2_12). 
 
@@ -70,3 +67,10 @@ If you are talking about multiple elements, or you don't have enough info to kno
 ---
 
 Self-check answer: This is like squares and rectangles. Isotopes are to squares as nuclides are to rectangles. Isotope is simply a more precise way to describe nuclides, when they are the same element.
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@nuclearkatie" />
+<meta name="twitter:title" content="Isotope or Nuclide? A short guide" />
+<meta name="twitter:description" content="
+Happy friday night, let's be pedantic about nuclear terminology (for fun?)" />
+<meta name="twitter:image" content="https://nuclearkatie.github.io/assets/images/posts/2022/nuclides/isotope_vs_nuclide.png />
