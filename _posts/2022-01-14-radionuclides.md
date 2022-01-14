@@ -48,7 +48,9 @@ Also, there are other terms relating multiple nuclides to each other based on nu
 
 ### Thanks for this, but why?
 
-It's a _rare_ day when I actually get to be pendantic about an xkcd comic. Randall Munroe usually does a fantastic job when weWhen should you use radionuclide vs isotope vs radioactive isotope vs...?
+It's a _rare_ day when I actually get to be pendantic about an xkcd comic. Randall Munroe usually does a fantastic job when weaving nuclear science into comics, but in this case he just happened to stumble into the trap of an extremely common mistake. Comic [2568](https://xkcd.com/2568/) uses isotope when the element is not specified or fixed, and should instead be nuclide.
+
+<center><img src="https://imgs.xkcd.com/comics/spinthariscope.png" alt="xkcd comic 2568, Spinthariscope"></center>
 
 Spinthariscopes, a neat tool to visualize radiation that are almost as old as our knowledge of radioativity itself, were historically made using radium as the _radionuclide_, but modern versions generally use americium-241 or thorium, such as the one avaiable for purchase at [United Nuclear](https://unitednuclear.com/index.php?main_page=index&cPath=2_12). 
 
