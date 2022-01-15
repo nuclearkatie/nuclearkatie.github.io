@@ -93,7 +93,7 @@ It's a _rare_ day when I actually get to be pedantic about an xkcd comic. Randal
 
 Spinthariscopes, a neat tool to visualize radiation that are almost as old as our knowledge of radioactivity itself, were historically made using radium as the _radionuclide_, but modern versions generally use americium-241 or thorium, such as the one available for purchase at [United Nuclear](https://unitednuclear.com/index.php?main_page=index&cPath=2_12).
 
-Note I reference thorium instead of thorium-232. Because thorium has only one naturally occurring _isotope_, it's common practice to omit the mass number (protons plus neutrons) when it is clear you're discussing natural thorium.
+Thorium has multiple naturally occurring _isotopes_, but it is very overwhelmingly comprised of thorium-232. I admit that thorium-230 exists as a higher fraction of natural thorium than uranium-234 does for natural uranium, but for nuclear engineers it's common practice to omit the mass number (protons plus neutrons) because we mainly pretend it's all thorium-232. I got a comment from geologist [Lynne Elkins](https://twitter.com/LJElkins) about not mentioning this in an earlier draft, because you can do science with thorium-230, but I have a nuclear engineer hat on so I made the common nuclear engineer mistake of pretending low-fraction isotopes you don't care much about don't exist :)
 
 ## Does this really matter?
 
