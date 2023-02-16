@@ -4,8 +4,8 @@ title: Uranium glass
 featured_image: /assets/images/pages/u-glass/u_glass.jpg
 ---
 
-Sometimes I sell uranium glass. Check out my uranium glass
-[Etsy store!](https://www.etsy.com/shop/NuclearKatie?ref=seller-platform-mcnav)
+Sometimes I sell uranium glass. I'm currently on haitus, but you can always check out my uranium glass
+[Etsy store](https://www.etsy.com/shop/NuclearKatie?ref=seller-platform-mcnav) just in case!
 
 ## FAQ
 
