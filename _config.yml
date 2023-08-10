@@ -41,6 +41,8 @@ linkedin: 'nuclearkatie'
 navigation:
   - text: About
     url: /about
+  - text: Resume/CV
+    url: /cv
   - text: Research
     url: /research
 #  - text: Style Guide

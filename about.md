@@ -4,8 +4,6 @@ title: About
 featured_image: /assets/images/ncerc_2022.png
 ---
 
-<center><a href="/katie_mummah_cv.pdf" class="button">          CV          </a></center> <center><a href="/katie_mummah_cv.pdf" class="button">          1 page dissertation summary          </a></center>
-
 Katie Mummah is a [Nuclear Engineering and Engineering Physics](https://www.engr.wisc.edu/department/engineering-physics/) PhD student at the [University of Wisconsin-Madison](https://www.wisc.edu), with a PhD minor in [Life Science Communication](https://lsc.wisc.edu/academic-programs/ph-d-minor/#ph-d-minor-alumni) and a graduate certificate in [Energy Analysis and Policy](https://eap.wisc.edu/). She works in the <a href="https://cnerg.github.io">Computational Nuclear Engineering Research Group (CNERG)</a> under Professor Paul Wilson. Katie is conducting dissertation research at Los Alamos National Laboratory in New Mexico.
 
 All of Katie's personal and professional work is driven by two of the largest problems facing our world today: climate change and nuclear weapons. While her research is focused directly on nuclear power, Katie also writes about the broader need to decarbonize our world and the promising strategies to do so.
