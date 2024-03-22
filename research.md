@@ -5,7 +5,7 @@ title: Research
 
 ## [Presentations and Panels](/research-stuff/presentation)
 
-<div class="post-img"><a href="/research-stuff/presentation"><img src="/assets/images/pages/research/2020-07-13-inmm-annual.png" class="img-responsive" alt="INMM presentation first slide"></a></div>
+<div class="post-img"><a href="/research-stuff/presentation"><img src="/assets/images/pages/research/2023-05-INMM-annual.png" class="img-responsive" alt="INMM presentation first slide"></a></div>
 
 ## [Media](/research-stuff/media)
 
