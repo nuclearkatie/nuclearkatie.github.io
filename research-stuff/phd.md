@@ -17,4 +17,4 @@ Coming soon!
 
 ## Defense
 
-<div class="post-img"><a href="/research-stuff/2025-01-defense.pdf"><img src="/research-stuff/pagers/2025-01-defense.png" class="img-responsive" alt="defense presentation first slide"></a></div>
+<div class="post-img"><a href="/research-stuff/2025-01-defense.pdf"><img src="/research-stuff/2025-01-defense.png" class="img-responsive" alt="defense presentation first slide"></a></div>
