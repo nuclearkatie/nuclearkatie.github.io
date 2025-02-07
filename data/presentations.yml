@@ -1,55 +1,33 @@
+- title: Cyclus Toolkit Enhancements to Simulate Nuclear Material Buying Patterns
+  type: Research Presentation
+  event: 2024 American Nuclear Society Annual Meeting
+  month: June
+  year: 2024
+  place: Las Vegas, NV
+  author: <b>K. Mummah</b>, Paul P.H. Wilson
+  pic: /assets/images/pages/research/no-pic.png
+  link: https://www.ans.org/meetings/ac2024/session/view-2513/#paper_7455
+
 - title: Bridging the Fidelity Gap in System-Scale Nuclear Fuel Cycle Simulations for Realistic State-Level Nuclear Material Accounting
   type: Research Presentation
+  event: Advances in Nonproliferation Technology and Policy Conference 2023
   month: November
   year: 2023
-  event: Advances in Nonproliferation Technology and Policy Conference 2023
-  pic: /assets/images/pages/research/2023-11-antpc.png
-  link: https://nuclearkatie.github.io/w23.pdf
-
-- title: Expanding your Outreach Impact for Nuclear Science Week Webinar
-  type: Webinar
-  month: September
-  year: 2023
-  link: https://www.youtube.com/watch?v=0hLLKPiTW8E
-  pic: /assets/images/pages/research/2023-atomic-allies-nsw.png
+  place: Washington, DC
+  author: <b>K. Mummah</b>
+  pic: /assets/images/pages/research/no-pic.png
+  link: https://www.ans.org/meetings/wm2023/session/view-2180/#paper_6332
 
 - title: Simulated State accounting data for development of advanced and automated State-level safeguards analysis
   type: Research Presentation
+  event: Institute of Nuclear Materials Management Annual Meeting 2023
   month: May
   year: 2023
-  event: Annual Meeting of the Institute of Nuclear Materials Management
-  pic: /assets/images/pages/research/2023-05-INMM-annual.png
-
-- title: "Saturday Plenary: Being a Nuclear Influencer"
-  type: Plenary
-  month: April
-  year: 2023
-  event: 2023 American Nuclear Society Student Conference
-  link: https://www.ans.org/meetings/student23/calendar/event-748/
-  pic: /assets/images/pages/research/2023-04-stucon-plenary.png
-
-- title: Learning from the "Successful Failure" of a Low- and Intermediate-Level Radioactive Waste Project as a Case Study in Consent-Based Siting
-  type: Research Presentation
-  month: April 
-  year: 2022
-  event: 2022 American Nuclear Society Student Conference
-  pic: /assets/images/pages/research/2022-04-15-stucon-2022.png
-  link: https://bit.ly/mummah-ans-student-2022
-
-- title: Creating synthetic State declarations using Cyclus
-  type: Research Presentation
-  month: March
-  year: 2022
-  event: Consortium for Monitoring, Technology, and Verification Workshop 2022
-  pic: /assets/images/pages/research/2022-03-22-MTV-workshop-2022.png
-
-- title: "Nuclear Twitter: Pros, Cons, Tips, and Tricks"
-  type: Webinar
-  month: June
-  year: 2021
-  event: Nuclear Advocacy Lab
-  link: bit.ly/NAL-june-twitter
-  pic: /assets/images/pages/research/2021-06-17-nuclear-advocacy-lab.jpg
+  author: <b>K. Mummah</b>, D. E. Jackson, K. E. Apt, J. Oakberg, V. Henzl, Paul P.H. Wilson
+  place: Vienna, Austria
+  link: /research-stuff/2020-07-13-inmm-annual.pdf
+  pic: /assets/images/pages/research/no-pic.png
+  link: https://resources.inmm.org/annual-meeting-proceedings/simulated-state-accounting-data-development-advanced-and-automated-state
 
 - title:
   type: Invited Talk
