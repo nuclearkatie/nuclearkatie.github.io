@@ -48,7 +48,15 @@ endcapture %} {% assign sortedTags = site_tags | split:',' | sort %}
     </div>
 </section>
 
-<!--- Twitter feed -->
+<!--- BlueSky/Twitter feed -->
+<script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
+<bsky-embed
+  username="nuclearkatie.com"
+  mode="dark"
+  limit="10"
+>
+</bsky-embed>
+
 <section class="widget widget-twitter">
   <a class="twitter-timeline" data-theme="dark" href="https://twitter.com/nuclearkatie?ref_src=twsrc%5Etfw">Tweets by nuclearkatie</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </section>
