@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  Uranium's life story and a global hide and seek game
-tags: [ nuclear, history]
+tags: [ nuclear, history, education, grad-school]
 featured_image_thumbnail: assets/images/pages/research/2025-01-atom_hand.jpg
 ---
 
-<small>This is the general audience chapter of my dissertation. It written as part of the Wisconsin Initiative for Science Literacy (WISL) Communicating PhD Research to the Public project. The original pdf version of this chapter can be found on the WISL [website](http://scifun.org/Thesis_Awards/mummah.html), along with many similar chapters across a number of scientific disciplines, or on the [PhD page](research-stuff/phd) of my website.</small>
+<small>This is the general audience chapter of my dissertation. It was written as part of the Wisconsin Initiative for Science Literacy (WISL) Communicating PhD Research to the Public project. The original pdf version of this chapter can be found on the WISL [website](http://scifun.org/Thesis_Awards/mummah.html), along with many similar chapters across a number of scientific disciplines, or on the [PhD page](research-stuff/phd) of my website.</small>
 
 Science is only useful when it is communicated. Scientific journals and conferences propagate advancements within a discipline and allow scientists to build on each other's work. Events with schools help grow the next generation of scientists, and I can trace my own journey back to science summer programs and opportunities to meet scientists as a kid. General audience media is for everyone to enjoy and explore the new knowledge and capabilities generated each day by scientists and engineers.
 
