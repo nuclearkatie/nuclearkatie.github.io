@@ -4,9 +4,6 @@ title:  Do you know how your state generates electricity&#63;
 tags: [ energy, uwLSC432, visualizations ]
 featured_image_thumbnail: assets/images/posts/2019/state-electricity/all_states_hex.png
 #featured_image: assets/images/posts/2019/state-electricity/all_states_hex.png
-custom-javascript-list:
-    - "https://code.jquery.com/jquery-3.2.1.min.js"
-
 custom-css-list:
      - "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css"
 ---
@@ -33,11 +30,7 @@ A few states rely heavily on several sources of clean energy, such as Kansas (wi
 
 Check out your own state below. Is the electricity mix what you expected?
 
-<head>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-</head>
-
-<select onchange="$('#imageToSwap').attr('src', this.options[this.selectedIndex].value);">
+<select onchange="document.getElementById('imageToSwap').src = this.value;">
     <option value="assets/images/posts/2019/state-electricity/ironed/AL_waffle.png">Alabama</option>
     <option value="assets/images/posts/2019/state-electricity/ironed/AK_waffle.png" selected>Alaska</option>
     <option value="assets/images/posts/2019/state-electricity/ironed/AZ_waffle.png">Arizona</option>

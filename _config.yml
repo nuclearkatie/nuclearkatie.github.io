@@ -5,12 +5,13 @@ meta_description: ''
 logo: 'assets/images/bitmap.png'
 favicon: 'assets/images/atoms.ico'
 baseurl:
-production_url: http://nuclearkatie.com/
+production_url: https://nuclearkatie.com/
 disqus: 'nuclearkatie'
 #mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 cover_image: atomz.gif
 # Add your GA Tracking Id
-ga_analytics: UA-134095464-1
+# Universal Analytics (UA-) IDs stopped working in July 2023; add a GA4 ID (G-...) here to re-enable
+# ga_analytics:
 
 
 # Author
@@ -22,9 +23,7 @@ author:
   bio: 'Katie is a nuclear engineer and avid Bluesky poster. You can find her on Bluesky at <a href="https://bsky.app/profile/nuclearkatie.com">@nuclearkatie.com</a>'
 
 # Contact form setings
-email: katiemummah@gmail.com
 contact_page_description: # "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
-thankyou_page_description: "Your message has been successfully sent. I'll get back to you as soon as possible!"
 
 # Social links
 twitter: 'nuclearkatie'
@@ -54,9 +53,8 @@ navigation:
     
 
 # Required Plugins
-plugins_dir:
+plugins:
   - jekyll-paginate
-  - jekyll-tagsgenerator
   - jekyll-seo-tag
   - jekyll-sitemap
 

@@ -40,3 +40,14 @@ This folder starts with `_`, so Jekyll doesn't publish it.
 - Ruby 3.3 + DevKit installed at `C:\Users\radio\Ruby33-x64`.
 - Run `bundle exec jekyll serve` from the repo, then open http://localhost:4000/research.
 - The Sass "@import is deprecated" warnings during builds are harmless.
+
+# Site maintenance (November 2026)
+
+- **Bluesky feed script** pinned to `bsky-embed@0.3.0` with an integrity hash. Before, it loaded whatever version was newest. To update, change the version and recompute the `integrity` hash.
+- **jQuery** updated from 3.3.1 to 3.7.1 (`assets/js/jquery-3.7.1.min.js`, checksum matches the official release). The 2019 state-electricity post no longer loads jQuery 1.11.2/3.2.1; its dropdown uses plain JavaScript.
+- **Google Analytics** turned off. The old `UA-` ID had been dead since July 2023. To turn it back on, set `ga_analytics` in `_config.yml` to a GA4 ID (`G-...`).
+- **Sitemap** fixed: `_config.yml` used `plugins_dir:` instead of `plugins:`, so GitHub Pages never loaded `jekyll-sitemap`.
+- **Tags**: GitHub Pages doesn't support `jekyll-tagsgenerator`, so every `/tag/...` link was a 404. There's now one `/tags` page with a section per tag, and all tag links point to `/tags#<tag>`.
+- **Twitter** sidebar timeline and contact-page buttons removed; the contact page links to Bluesky instead. Tweets embedded in two 2019 posts were left as is (the quoted text still shows).
+- **Contact form** removed. Formspree's old email-based address (`formspree.io/<email>`) returns 404, so the form was broken. `thank-you.html` (the page the form redirected to) is gone. The personal email address was also removed from the contact page and from `_config.yml`, so the contact page now only links to Bluesky.
+- `production_url` changed to https.
